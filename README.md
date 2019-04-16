@@ -20,10 +20,11 @@ El algoritmo consta de los siguientes pasos:
 
 ## Construido con 🛠️
 
-Para la programación de este programa se utilizo:
+Para la programación de este programa se utilizó:
 * [Python](https://www.python.org/) - Lenguaje de programación.
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Entorno de desarrollo.
 
 ## Autor ✒️
 
 con ❤️ por   **Victor Rene Olave** | [victorolave](https://github.com/victorolave)
+
